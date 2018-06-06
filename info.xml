@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<extension key="com.greenleafadvancement.birthdayanniversarysearch" type="module">
+  <file>birthdayanniversarysearch</file>
+  <name>Birthday Anniversary Search</name>
+  <description>Added option to include/exclude deceased contacts in Birthday and Anniversary Search</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Greenleaf Advancement</author>
+    <email>guyiac@greenleafadvancement.com</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/greenleafadvancement/com.greenleafadvancement.birthdayanniversarysearch</url>
+    <url desc="Documentation">https://docs.civicrm.org/birthdayanniversarysearch/en/latest</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2018-06-06</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.7</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Birthdayanniversarysearch</namespace>
+  </civix>
+</extension>
